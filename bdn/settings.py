@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure--x8e+nk5#2dqz3n*9snmndkg0o-31o)u%r#fyds6n$)4u+f=!5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = [ 'bdnpython-a995h7bo.b4a.run', 'djangoapp-hngu2ahb.b4a.run', 'node87a.containers.back4app.com', 'localhost', '127.0.0.1' ]
 
